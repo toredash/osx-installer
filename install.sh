@@ -328,4 +328,4 @@ brew tap caskroom/cask
 
 brew install homebrew/completions/brew-cask-completion
 brew install tmux ssh-copy-id tree wget watch bash-completion gnupg2 paperkey pigz ykpers nmap git rsync
-brew cask install vlc firefox gimp spotify sublime-text the-unarchiver tunnelblick xquartz google-chrome yubikey-personalization-gui adobe-acrobat flux
+brew cask install vlc firefox gimp spotify sublime-text the-unarchiver tunnelblick xquartz google-chrome yubikey-personalization-gui adobe-acrobat flux crashplan
